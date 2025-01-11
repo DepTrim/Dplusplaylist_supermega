@@ -1,6 +1,6 @@
-# Ссылка IPTV (https://deptrim.github.io/Dplusplaylist_supermega/IPTV.m3u)
-### В данном плейлисте существует 2000+ каналов бесплатно!
-# В данном плейлисте собраны:
+# Ссылки IPTV:
+## SuperMegaPlayList (https://deptrim.github.io/Dplusplaylist_supermega/IPTV.m3u)
+# В данных плейлисте собраны:
 ## -Каналы
 ## -Вебкамеры со всего мира
 ## -Фильмы
