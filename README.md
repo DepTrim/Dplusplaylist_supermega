@@ -4,6 +4,7 @@
 ## Moscow IPTV (https://deptrim.github.io/Dplusplaylist_supermega/Moscow_IPTV.m3u)
 ## Krasnoyarsk IPTV (https://deptrim.github.io/Dplusplaylist_supermega/Krasnoyarsk_IPTV.m3u)
 ## UFA IPTV (https://deptrim.github.io/Dplusplaylist_supermega/UFA_IPTV.m3u)
+## Voronezh IPTV (https://deptrim.github.io/Dplusplaylist_supermega/Voronezh_IPTV.m3u)
 # В данных плейлисте собраны:
 ## -Каналы
 ## -Вебкамеры со всего мира
