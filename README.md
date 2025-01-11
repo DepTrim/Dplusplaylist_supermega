@@ -6,6 +6,7 @@
 ## UFA IPTV (https://deptrim.github.io/Dplusplaylist_supermega/UFA_IPTV.m3u)
 ## Voronezh IPTV (https://deptrim.github.io/Dplusplaylist_supermega/Voronezh_IPTV.m3u)
 ## Orenburg IPTV (https://deptrim.github.io/Dplusplaylist_supermega/Orenburg_IPTV.m3u)
+## Lipetsk IPTV (https://deptrim.github.io/Dplusplaylist_supermega/Lipetsk_IPTV.m3u)
 # В данных плейлисте собраны:
 ## -Каналы
 ## -Вебкамеры со всего мира
