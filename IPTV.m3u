@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="https://ottepg.ru/ottepg.xml.gz"
 #PLAYLIST:LITATV
 
+#EXTINF:-1 tvg-logo="https://deptrim.github.io/Dplusplaylist_supermega/potok/1_potok_IMG.png" group-title="INFO💫",INFO
+https://deptrim.github.io/Dplusplaylist_supermega/potok/1_potok.mp4
+
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",Первый канал HD
 https://edge1.1ernet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="2265" tvg-logo="http://epg.one/img2/2265.png" group-title="Общественные",360
