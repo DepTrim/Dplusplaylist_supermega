@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://ottepg.ru/ottepg.xml.gz"
+#EXTM3U url-tvg="https://ottepg.ru/ottepg.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #PLAYLIST:LITATV
 
 #EXTINF:-1 tvg-logo="https://deptrim.github.io/Dplusplaylist_supermega/potok/1_potok_IMG.png" group-title="INFO💫",INFO
@@ -5797,6 +5797,962 @@ https://mp3channels.webradio.de/heavy-metal
 http://nordic.streampanel.cloud/stream
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Информационные",Соловьев.Live (HD)
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+
+#EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" tvg-name="Пятый канал" group-title="Общий",5 канал [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.16.7:4022/udp/234.0.0.205:2000
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-name="СТС" group-title="Общий",СТС [1280x720]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/sts-hq.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-name="СТС" group-title="Общий",СТС [1280x720]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/sts-hq.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-name="СТС" group-title="Общий",СТС [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l43/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-name="СТС" group-title="Общий",СТС [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.23.80.28:8080/STS/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-name="СТС" group-title="Общий",СТС [480x360]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/sts.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-name="СТС" group-title="Общий",СТС [480x360]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/sts.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-name="СТС" group-title="Общий",СТС [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-name="СТС" group-title="Общий",СТС [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-name="СТС" group-title="Общий",СТС [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/CTC/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-name="СТС" group-title="Общий",СТС [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://s1.merlive.am/stshd/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-name="СТС" group-title="Общий",СТС [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://uiptv.do.am/1ufc/105567126/playlist.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-name="СТС" group-title="Общий",СТС [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l43/mpegts
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-name="СТС" group-title="Общий",СТС [1024x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://streaming.televizor-24-tochka.ru/live/296.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-name="СТС" group-title="Общий",СТС [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://130.193.73.10:8937/play/a01w
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-name="СТС" group-title="Общий",СТС [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.88.106:4022/udp/234.0.0.239:2000
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-name="СТС" group-title="Общий",СТС [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.16.7:4022/udp/234.0.0.239:2000
+#EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-name="НТВ" group-title="Общий",НТВ [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-name="РЕН ТВ" group-title="Общий",Рен ТВ [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.23.80.28:8080/REN_HD/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-name="РЕН ТВ" group-title="Общий",Рен ТВ [1280x720]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/rentv-hq.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-name="РЕН ТВ" group-title="Общий",Рен ТВ [1280x720]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/rentv-hq.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-name="РЕН ТВ" group-title="Общий",Рен ТВ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://93.189.224.246:52900/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-name="РЕН ТВ" group-title="Общий",Рен ТВ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.23.80.28:8080/REN/index.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-name="РЕН ТВ" group-title="Общий",Рен ТВ [480x270]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/rentv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-name="РЕН ТВ" group-title="Общий",Рен ТВ [480x270]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/rentv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-name="РЕН ТВ" group-title="Общий",Рен ТВ
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.88.106:4022/udp/234.0.0.240:2000
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-name="РЕН ТВ" group-title="Общий",Рен ТВ [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8312/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-name="РЕН ТВ" group-title="Общий",Рен ТВ [720x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8004/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-name="РЕН ТВ" group-title="Общий",Рен ТВ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/RenTv/mono.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-name="РЕН ТВ" group-title="Общий",Рен ТВ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l47/mpegts
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-name="РЕН ТВ" group-title="Общий",Рен ТВ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.16.7:4022/udp/234.0.0.240:2000
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-name="РЕН ТВ" group-title="Общий",Рен ТВ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://130.193.73.10:8937/play/a00i
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-name="ТНТ" group-title="Общий",ТНТ [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.23.80.28:8080/TNT_HD/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-name="ТНТ" group-title="Общий",ТНТ [1280x720]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/tnttv-hq.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-name="ТНТ" group-title="Общий",ТНТ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.23.80.28:8080/TNT/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-name="ТНТ" group-title="Общий",ТНТ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://93.189.224.246:52900/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-name="ТНТ" group-title="Общий",ТНТ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.50.148.2:7702/TNT/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-name="ТНТ" group-title="Общий",ТНТ [480x360]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/tnttv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-name="ТНТ" group-title="Общий",ТНТ [480x360]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/tnttv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-name="ТНТ" group-title="Общий",ТНТ [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8311/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-name="ТНТ" group-title="Общий",ТНТ [720x576]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://live.admuspeh.my/8007/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-name="ТНТ" group-title="Общий",ТНТ [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://130.193.73.10:8937/play/a01z
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-name="ТНТ" group-title="Общий",ТНТ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://130.193.73.10:8937/play/a01y
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-name="ТНТ" group-title="Общий",ТНТ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.16.7:4022/udp/234.0.0.186:2000
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-name="ТНТ" group-title="Общий",ТНТ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.88.106:4022/udp/234.0.0.186:2000
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-name="ТНТ" group-title="Общий",ТНТ [1024x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://streaming.televizor-24-tochka.ru/live/38.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8037/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [1280x720]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [1024x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [1024x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l50/index.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://93.189.224.246:52900/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/Zvezda/mono.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.23.80.28:8080/Zvezda/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [480x270]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/zvezda.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [1280x720]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://uiptv.do.am/1ufc/115312670/playlist.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/Zvezda/index.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://31.148.48.15/Zvezda/index.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l50/mpegts
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [1024x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://streaming.thestream.cyou/live/748-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://flussonic.salomtv.uz/Zvezda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.88.106:4022/udp/234.0.0.237:2000
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.16.7:4022/udp/234.0.0.237:2000
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://130.193.73.10:8937/play/a009
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [1024x576]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://streaming.televizor-24-tochka.ru/live/748.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда" group-title="Общий",Звезда [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://flussonic.salomtv.uz/Zvezda/video.m3u8
+#EXTINF:-1 tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png" tvg-name="Пятница!" group-title="Общий",Пятница! [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8066/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png" tvg-name="Пятница!" group-title="Общий",Пятница! [1280x720]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/pyatnicatv-hq.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png" tvg-name="Пятница!" group-title="Общий",Пятница! [1280x720]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/pyatnicatv-hq.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png" tvg-name="Пятница!" group-title="Общий",Пятница! [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l48/index.m3u8
+#EXTINF:-1 tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png" tvg-name="Пятница!" group-title="Общий",Пятница! [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://93.189.224.246:52900/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png" tvg-name="Пятница!" group-title="Общий",Пятница! [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.23.80.28:8080/Pyatnica/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png" tvg-name="Пятница!" group-title="Общий",Пятница! [480x270]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/pyatnicatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png" tvg-name="Пятница!" group-title="Общий",Пятница! [480x270]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/pyatnicatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SolovyovLive.ru" tvg-logo="https://i.imgur.com/v0OYe1d.png" tvg-name="Соловьев.Live" group-title="Новости",Соловьëв.Live [480x360]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/sollive.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SolovyovLive.ru" tvg-logo="https://i.imgur.com/v0OYe1d.png" tvg-name="Соловьев.Live" group-title="Новости",Соловьëв.Live [480x360]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/sollive.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SolovyovLive.ru" tvg-logo="https://i.imgur.com/v0OYe1d.png" tvg-name="Соловьев.Live" group-title="Новости",Соловьëв.Live [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 tvg-id="SolovyovLive.ru" tvg-logo="https://i.imgur.com/v0OYe1d.png" tvg-name="Соловьев.Live" group-title="Новости",Соловьëв.Live [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://195.26.83.96:7029/play/a003
+#EXTINF:-1 tvg-id="SolovyovLive.ru" tvg-logo="https://i.imgur.com/v0OYe1d.png" tvg-name="Соловьев.Live" group-title="Новости",Соловьëв.Live [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://31.148.48.15/EuroNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SolovyovLive.ru" tvg-logo="https://i.imgur.com/v0OYe1d.png" tvg-name="Соловьев.Live" group-title="Новости",Соловьëв.Live (Новороссия) [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://130.193.73.10:8937/play/a002
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/Mult/mono.m3u8
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [854x480]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://radio.tvs.by:8088/Mult/index.m3u8
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.242.190.6:8099/24/index.m3u8
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/Mult/index.m3u8
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8223/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.88.106:4022/udp/234.0.0.15:2000
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.50.148.2:7706/Mult/index.m3u8
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [720x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8157/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://77.106.252.178:4022/udp/233.33.210.78:5050
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.16.7:4022/udp/234.0.0.15:2000
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [720x480]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://radioserver.abinet.com:8815/udp/127.0.0.1:6006
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://37.205.83.56:81/udp/239.54.7.155:1224
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://130.193.73.10:8937/play/a00x
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://31.148.48.15/Mult/index.m3u8
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://31.148.48.15/Mult/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт" group-title="Детский",Мульт [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://95.156.76.230:33001/udp/230.4.34.88:1234
+#EXTINF:-1 tvg-id="Ani.ru" tvg-logo="https://i.imgur.com/kIE6Ehu.png" tvg-name="Ani" group-title="Детский",Ani [1024x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
+#EXTINF:-1 tvg-id="Ani.ru" tvg-logo="https://i.imgur.com/kIE6Ehu.png" tvg-name="Ani" group-title="Детский",Ani [854x480]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="Ani.ru" tvg-logo="https://i.imgur.com/kIE6Ehu.png" tvg-name="Ani" group-title="Детский",Ani [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.242.190.6:8099/25/index.m3u8
+#EXTINF:-1 tvg-id="Ani.ru" tvg-logo="https://i.imgur.com/kIE6Ehu.png" tvg-name="Ani" group-title="Детский",Ani [1024x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 tvg-id="Ani.ru" tvg-logo="https://i.imgur.com/kIE6Ehu.png" tvg-name="Ani" group-title="Детский",Ani [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.50.148.2:7706/Ani/index.m3u8
+#EXTINF:-1 tvg-id="Ani.ru" tvg-logo="https://i.imgur.com/kIE6Ehu.png" tvg-name="Ani" group-title="Детский",Ani [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://65.21.85.175:8000/play/a00h/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="Ani.ru" tvg-logo="https://i.imgur.com/kIE6Ehu.png" tvg-name="Ani" group-title="Детский",Ani [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://s1.merlive.am/anitv/index.m3u8
+#EXTINF:-1 tvg-id="Ani.ru" tvg-logo="https://i.imgur.com/kIE6Ehu.png" tvg-name="Ani" group-title="Детский",Ani [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://31.148.48.15/Ani/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Ani.ru" tvg-logo="https://i.imgur.com/kIE6Ehu.png" tvg-name="Ani" group-title="Детский",Ani [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 tvg-id="Ani.ru" tvg-logo="https://i.imgur.com/kIE6Ehu.png" tvg-name="Ani" group-title="Детский",Ani [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://130.193.73.10:8937/play/a00t
+#EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" tvg-name="Cartoon Network Россия" group-title="Детский",Cartoon Network [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" tvg-name="Cartoon Network Россия" group-title="Детский",Cartoon Network [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" tvg-name="Cartoon Network Россия" group-title="Детский",Cartoon Network [720x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8064/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-logo="https://i.imgur.com/B29D2s1.png" tvg-name="Cartoonito" group-title="Детский",Cartoonito [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-logo="https://i.imgur.com/B29D2s1.png" tvg-name="Cartoonito" group-title="Детский",Cartoonito [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/Channel_120/mono.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-logo="https://i.imgur.com/B29D2s1.png" tvg-name="Cartoonito" group-title="Детский",Cartoonito [720x576]
+#EXTVLCOPT:http-user-agent=VLC/3.0.21 LibVLC/3.0.21
+http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-logo="https://i.imgur.com/B29D2s1.png" tvg-name="Cartoonito" group-title="Детский",Cartoonito [720x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8332/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="GulliGirl.ru" tvg-logo="https://i.imgur.com/lbViDuC.png" tvg-name="Gulli Girl" group-title="Детский",Gulli Girl [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://86.57.198.251:8181/play/1091/index.m3u8
+#EXTINF:-1 tvg-id="GulliGirl.ru" tvg-logo="https://i.imgur.com/lbViDuC.png" tvg-name="Gulli Girl" group-title="Детский",Gulli Girl [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://135.181.115.81:8000/play/a01g/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="GulliGirl.ru" tvg-logo="https://i.imgur.com/lbViDuC.png" tvg-name="Gulli Girl" group-title="Детский",Gulli Girl [720x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8097/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="GulliGirl.ru" tvg-logo="https://i.imgur.com/lbViDuC.png" tvg-name="Gulli Girl" group-title="Детский",Gulli Girl [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.88.106:4022/udp/234.0.0.153:2000
+#EXTINF:-1 tvg-id="GulliGirl.ru" tvg-logo="https://i.imgur.com/lbViDuC.png" tvg-name="Gulli Girl" group-title="Детский",Gulli Girl [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.16.7:4022/udp/234.0.0.153:2000
+#EXTINF:-1 tvg-id="GulliGirl.ru" tvg-logo="https://i.imgur.com/lbViDuC.png" tvg-name="Gulli Girl" group-title="Детский",Gulli Girl [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://130.193.73.10:8937/play/a00v
+#EXTINF:-1 tvg-id="GulliGirl.ru" tvg-logo="https://i.imgur.com/lbViDuC.png" tvg-name="Gulli Girl" group-title="Детский",Gulli Girl [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://95.156.76.230:33001/udp/230.4.34.106:1234
+#EXTINF:-1 tvg-id="NickJr.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" tvg-name="Nick Jr." group-title="Детский",Nick Jr. [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+rtmp://212.0.213.132//NickJr
+#EXTINF:-1 tvg-id="NickJr.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" tvg-name="Nick Jr." group-title="Детский",Nick Jr. [720x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8153/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="NickelodeonCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" tvg-name="Nickelodeon" group-title="Детский",Nickelodeon [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/Channel_114/mono.m3u8
+#EXTINF:-1 tvg-id="NickelodeonCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" tvg-name="Nickelodeon" group-title="Детский",Nickelodeon [720x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8055/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="NickelodeonCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" tvg-name="Nickelodeon" group-title="Детский",Nickelodeon [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/Channel_114/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NickelodeonCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" tvg-name="Nickelodeon" group-title="Детский",Nickelodeon [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="NickelodeonCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" tvg-name="Nickelodeon" group-title="Детский",Nickelodeon [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://s1.merlive.am/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" tvg-name="Nickelodeon" group-title="Детский",Nickelodeon [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8166/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="NickelodeonCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" tvg-name="Nickelodeon" group-title="Детский",Nickelodeon [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://31.148.48.15/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" tvg-name="Nickelodeon" group-title="Детский",Nickelodeon [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://31.148.48.15/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-name="Nicktoons" group-title="Детский",Nicktoons [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-name="Nicktoons" group-title="Детский",Nicktoons [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/Boomerang/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-name="Nicktoons" group-title="Детский",Nicktoons [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/Boomerang/index.m3u8
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-logo="https://i.imgur.com/QCOUJ30.png" tvg-name="TiJi" group-title="Детский",TiJi [854x480]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://ott-cdn.ucom.am/s59/04.m3u8
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-logo="https://i.imgur.com/QCOUJ30.png" tvg-name="TiJi" group-title="Детский",TiJi [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.23.80.28:8080/TiJi/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-logo="https://i.imgur.com/QCOUJ30.png" tvg-name="TiJi" group-title="Детский",TiJi [720x576]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://stream01.vnet.am/Tiji/mono.m3u8
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-logo="https://i.imgur.com/QCOUJ30.png" tvg-name="TiJi" group-title="Детский",TiJi [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/Tiji/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-logo="https://i.imgur.com/QCOUJ30.png" tvg-name="TiJi" group-title="Детский",TiJi [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://135.181.115.81:8000/play/a01i/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-logo="https://i.imgur.com/QCOUJ30.png" tvg-name="TiJi" group-title="Детский",TiJi [720x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8110/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-logo="https://i.imgur.com/QCOUJ30.png" tvg-name="TiJi" group-title="Детский",TiJi [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://s1.merlive.am/tiji/index.m3u8
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-logo="https://i.imgur.com/QCOUJ30.png" tvg-name="TiJi" group-title="Детский",TiJi [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.88.106:4022/udp/234.0.0.252:2000
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-logo="https://i.imgur.com/QCOUJ30.png" tvg-name="TiJi" group-title="Детский",TiJi [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.16.7:4022/udp/234.0.0.252:2000
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-logo="https://i.imgur.com/QCOUJ30.png" tvg-name="TiJi" group-title="Детский",TiJi [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://130.193.73.10:8937/play/a05k
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-logo="https://i.imgur.com/jNJkLHl.png" tvg-name="В гостях у сказки" group-title="Детский",В гостях у сказки [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8133/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-logo="https://i.imgur.com/jNJkLHl.png" tvg-name="В гостях у сказки" group-title="Детский",В гостях у сказки [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.16.7:4022/udp/234.0.0.248:2000
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-logo="https://i.imgur.com/jNJkLHl.png" tvg-name="В гостях у сказки" group-title="Детский",В гостях у сказки [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.88.106:4022/udp/234.0.0.248:2000
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-logo="https://i.imgur.com/jNJkLHl.png" tvg-name="В гостях у сказки" group-title="Детский",В гостях у сказки [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://flussonic.salomtv.uz/Vgostahuskazki/video.m3u8
+#EXTINF:-1 tvg-name="Jetix" group-title="Детский",Jetix [320x240]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1 tvg-name="Jetix" group-title="Детский",Jetix [320x240]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://foxkids-online.ru/hls/test.m3u8
+#EXTINF:-1 tvg-id="TVK.ru" tvg-logo="https://i.imgur.com/rW1BeJC.png" tvg-name="ТВК" group-title="Региональные",ТВК (Красноярск) [1024x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://air.tvk6.ru/tvk24/index.m3u8
+#EXTINF:-1 tvg-id="TVK.ru" tvg-logo="https://i.imgur.com/rW1BeJC.png" tvg-name="ТВК" group-title="Региональные",ТВК (Красноярск) [1024x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://air.tvk6.ru/tvk24/playlist.m3u8
+#EXTINF:-1 tvg-id="TKR.ru" tvg-logo="https://i.imgur.com/VqtPB7L.png" tvg-name="ТКР" group-title="Региональные",ТКР (Рязань) [1280x720]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="Таврия ТВ" group-title="Региональные",Таврия ТВ [1024x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://tavr.mediacdn.ru/cdn/tavria/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="Таврия ТВ" group-title="Региональные",Таврия ТВ [1024x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://tavr.mediacdn.ru/cdn/tavria/playlist.m3u8
+#EXTINF:-1 tvg-id="Telplus.ru" tvg-logo="https://i.imgur.com/1zbcZ3p.png" tvg-name="Телплюс" group-title="Региональные",Телплюс ТВ (Астрахань) [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://streaming.astrakhan.ru/telplushd/playlist.m3u8
+#EXTINF:-1 tvg-id="Telplus.ru" tvg-logo="https://i.imgur.com/1zbcZ3p.png" tvg-name="Телплюс" group-title="Региональные",Телплюс ТВ (Астрахань) [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://streaming.astrakhan.ru/telplushd/index.m3u8
+#EXTINF:-1 tvg-id="Tolyatti24.ru" tvg-logo="https://i.imgur.com/5jVKopE.png" tvg-name="Тольятти 24" group-title="Региональные",Тольятти 24 [1280x720]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://tvtogliatti24.ru/hls/live720/index.m3u8
+#EXTINF:-1 tvg-id="Tolyatti24.ru" tvg-logo="https://i.imgur.com/5jVKopE.png" tvg-name="Тольятти 24" group-title="Региональные",Тольятти 24 [1920x1080]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+https://tvtogliatti24.ru/hls/live1080/index.m3u8
+#EXTINF:-1 tvg-id="Tolyatti24.ru" tvg-logo="https://i.imgur.com/5jVKopE.png" tvg-name="Тольятти 24" group-title="Региональные",Тольятти 24 [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://tvtogliatti24.ru/hls2/live1080/index.m3u8
+#EXTINF:-1 tvg-id="Tolyatti24.ru" tvg-logo="https://i.imgur.com/5jVKopE.png" tvg-name="Тольятти 24" group-title="Региональные",Тольятти 24 [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.88.106:4022/udp/234.0.0.234:2000
+#EXTINF:-1 tvg-id="Tolyatti24.ru" tvg-logo="https://i.imgur.com/5jVKopE.png" tvg-name="Тольятти 24" group-title="Региональные",Тольятти 24 [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.16.7:4022/udp/234.0.0.234:2000
+#EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru" tvg-logo="https://i.imgur.com/0us6l04.png" tvg-name="Щёлковское ТВ" group-title="Региональные",Щелковское ТВ [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://stream1.tv41.ru/hls/live.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="Эхо ТВ 24" group-title="Региональные",Эхо ТВ 24 [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
+#EXTINF:-1 tvg-id="UgraTV.ru" tvg-logo="https://i.imgur.com/561FRwI.png" tvg-name="Югра-ТВ" group-title="Региональные",Югра [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1 tvg-id="UgraTV.ru" tvg-logo="https://i.imgur.com/561FRwI.png" tvg-name="Югра-ТВ" group-title="Региональные",Югра [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://live-ugratv.cdnvideo.ru/ugratv/ugratv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Ялта ТВ" group-title="Региональные",Ялта ТВ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://195.26.83.96:7029/play/a006
+#EXTINF:-1 tvg-id="Yamal.ru" tvg-logo="https://i.imgur.com/O9PJHUy.png" tvg-name="Ямал" group-title="Региональные",Ямал ТВ [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://bl.webcaster.pro/media/playlist/free_eb0182bd41004b93570aa08119ad9151/4_97090908/1080p/5b7cf483e6b0ccafcd0c6e9052677dbc/4846138545.m3u8?live=15&ref=https://yamal-media.ru/
+#EXTINF:-1 tvg-id="Yamal.ru" tvg-logo="https://i.imgur.com/O9PJHUy.png" tvg-name="Ямал" group-title="Региональные",Ямал ТВ [1280x720]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://bl.webcaster.pro/media/playlist/free_eb0182bd41004b93570aa08119ad9151/4_97090908/720p/5b7cf483e6b0ccafcd0c6e9052677dbc/4846138545.m3u8?live=15&ref=https://yamal-media.ru/
+#EXTINF:-1 tvg-id="Yamal.ru" tvg-logo="https://i.imgur.com/O9PJHUy.png" tvg-name="Ямал" group-title="Региональные",Ямал ТВ [896x504]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://bl.webcaster.pro/media/playlist/free_eb0182bd41004b93570aa08119ad9151/4_97090908/480p/5b7cf483e6b0ccafcd0c6e9052677dbc/4846138545.m3u8?live=15&ref=https://yamal-media.ru/
+#EXTINF:-1 tvg-name="+Comedy" group-title="Разное",+Comedy [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://europe1-hls-cluster01-inter.onairtv.org/zuce8raZdp/EXTmgfncgt/14.m3u8
+#EXTINF:-1 tvg-name="+Kinopoisk" group-title="Разное",+Kinopoisk [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://europe1-hls-cluster01-inter.onairtv.org/zuce8raZdp/EXTmgfncgt/10.m3u8
+#EXTINF:-1 tvg-id="1Plus2.lv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/1%2B2.svg/revision/latest/scale-to-width-down/512" tvg-name="1+2" group-title="Разное",1+2 [720x400]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://wowza4.leisertv.com/live/1plus2.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="10 канал (Новокузнецк)" group-title="Разное",10 канал (Новокузнецк) [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://rmhkuzbass.ru:8082/10kanal/10kanal_720/playlist.m3u8
+#EXTINF:-1 tvg-name="10 канал (Саранск)" group-title="Разное",10 канал (Саранск) [1280x720]
+#EXTVLCOPT:http-user-agent=VLC/3.0.21 LibVLC/3.0.21
+https://live-10chanel.cdnvideo.ru/10chanel/streamtr_1/playlist.m3u8
+#EXTINF:-1 tvg-name="11 канал (Пенза)" group-title="Разное",11 канал (Пенза) [1920x1080]
+#EXTVLCOPT:http-user-agent=VLC/3.0.21 LibVLC/3.0.21
+http://85.234.33.64/stream/c11.m3u8
+#EXTINF:-1 tvg-name="11 канал Полевской" group-title="Разное",11 канал Полевской [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://hjplb2qzsf8.a.trbcdn.net/livemaster/qm9inc7byc_stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Avto24.ru" tvg-logo="https://i.imgur.com/GXSXmN2.png" tvg-name="Авто24" group-title="Хобби и увлечения",Авто 24 [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.124.152.238:8088/auto24
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-name="Авто Плюс" group-title="Хобби и увлечения",Авто Плюс [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l105/index.m3u8
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-name="Авто Плюс" group-title="Хобби и увлечения",Авто Плюс [480x360]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/auto.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-name="Авто Плюс" group-title="Хобби и увлечения",Авто Плюс [480x360]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/auto.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-name="Авто Плюс" group-title="Хобби и увлечения",Авто Плюс [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8095/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-name="Авто Плюс" group-title="Хобби и увлечения",Авто Плюс [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://s1.merlive.am/Avtoplus/index.m3u8
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-name="Авто Плюс" group-title="Хобби и увлечения",Авто Плюс [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://flussonic.salomtv.uz/Avto_Plus/video.m3u8
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-name="Авто Плюс" group-title="Хобби и увлечения",Авто Плюс [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://flussonic.salomtv.uz/Avto_Plus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-name="Авто Плюс" group-title="Хобби и увлечения",Авто Плюс [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://31.148.48.15/Avto_Plus/index.m3u8
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-name="Авто Плюс" group-title="Хобби и увлечения",Авто Плюс [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l105/mpegts
+#EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png" tvg-name="Бобёр" group-title="Хобби и увлечения",Бобёр [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l112/index.m3u8
+#EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png" tvg-name="Бобёр" group-title="Хобби и увлечения",Бобёр [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.23.80.28:8080/Bober/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png" tvg-name="Бобёр" group-title="Хобби и увлечения",Бобёр [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.212.71.253:8002/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png" tvg-name="Бобёр" group-title="Хобби и увлечения",Бобёр [720x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8172/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png" tvg-name="Бобёр" group-title="Хобби и увлечения",Бобёр [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://195.18.23.20:8000/play/1/index.m3u8
+#EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png" tvg-name="Бобёр" group-title="Хобби и увлечения",Бобёр [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.37.150.40:8092/Bober/playlist.m3u8
+#EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png" tvg-name="Бобёр" group-title="Хобби и увлечения",Бобёр [704x396]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://46.17.41.254:2020/channel/277656f8/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+#EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png" tvg-name="Бобёр" group-title="Хобби и увлечения",Бобёр [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.88.106:4022/udp/234.0.0.103:2000
+#EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png" tvg-name="Бобёр" group-title="Хобби и увлечения",Бобёр [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l112/mpegts
+#EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png" tvg-name="Бобёр" group-title="Хобби и увлечения",Бобёр [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.16.7:4022/udp/234.0.0.103:2000
+#EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png" tvg-name="Бобёр" group-title="Хобби и увлечения",Бобёр [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://cdn2.skygo.mn/live/disk1/Bober/HLS-FTA/Bober.m3u8
+#EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png" tvg-name="Бобёр" group-title="Хобби и увлечения",Бобёр [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://130.193.73.10:8937/play/a02a
+#EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png" tvg-name="Бобёр" group-title="Хобби и увлечения",Бобёр [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://109.200.130.123:7537/play/a02c
+#EXTINF:-1 tvg-id="Dialogiorybalke.ru" tvg-logo="https://i.imgur.com/OuBtnGU.png" tvg-name="Диалоги о рыбалке" group-title="Хобби и увлечения",Диалоги о рыбалке [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l55/index.m3u8
+#EXTINF:-1 tvg-id="Dialogiorybalke.ru" tvg-logo="https://i.imgur.com/OuBtnGU.png" tvg-name="Диалоги о рыбалке" group-title="Хобби и увлечения",Диалоги о рыбалке [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.23.80.28:8080/DialogiORybalke/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Dialogiorybalke.ru" tvg-logo="https://i.imgur.com/OuBtnGU.png" tvg-name="Диалоги о рыбалке" group-title="Хобби и увлечения",Диалоги о рыбалке [720x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8324/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Dialogiorybalke.ru" tvg-logo="https://i.imgur.com/OuBtnGU.png" tvg-name="Диалоги о рыбалке" group-title="Хобби и увлечения",Диалоги о рыбалке [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l55/mpegts
+#EXTINF:-1 tvg-id="Dialogiorybalke.ru" tvg-logo="https://i.imgur.com/OuBtnGU.png" tvg-name="Диалоги о рыбалке" group-title="Хобби и увлечения",Диалоги о рыбалке [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://130.193.73.10:8937/play/a04q
+#EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-logo="https://i.imgur.com/EOue13e.png" tvg-name="Дикая охота" group-title="Хобби и увлечения",Дикая Охота [1920x1080]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://stream01.vnet.am/Channel_127/mono.m3u8
+#EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-logo="https://i.imgur.com/EOue13e.png" tvg-name="Дикая охота" group-title="Хобби и увлечения",Дикая Охота [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/Channel_127/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-logo="https://i.imgur.com/EOue13e.png" tvg-name="Дикая охота" group-title="Хобби и увлечения",Дикая Охота [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://77.106.252.178:4022/udp/233.33.210.214:5050
+#EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-logo="https://i.imgur.com/EOue13e.png" tvg-name="Дикая охота" group-title="Хобби и увлечения",Дикая Охота [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.23.80.28:8080/Dikaya_Ohota/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-logo="https://i.imgur.com/EOue13e.png" tvg-name="Дикая охота" group-title="Хобби и увлечения",Дикая Охота [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.88.106:4022/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-logo="https://i.imgur.com/EOue13e.png" tvg-name="Дикая охота" group-title="Хобби и увлечения",Дикая Охота [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://s1.merlive.am/dikayaoxota/index.m3u8
+#EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-logo="https://i.imgur.com/EOue13e.png" tvg-name="Дикая охота" group-title="Хобби и увлечения",Дикая Охота [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.16.7:4022/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="DikayarybalkaHD.ru" tvg-logo="https://i.imgur.com/e3BFVgt.png" tvg-name="Дикая рыбалка HD" group-title="Хобби и увлечения",Дикая рыбалка [1920x1080]
+#EXTVLCOPT:http-user-agent=VLC/3.0.21 LibVLC/3.0.21
+http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="DikayarybalkaHD.ru" tvg-logo="https://i.imgur.com/e3BFVgt.png" tvg-name="Дикая рыбалка HD" group-title="Хобби и увлечения",Дикая рыбалка [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/Channel_126/mono.m3u8
+#EXTINF:-1 tvg-id="DikayarybalkaHD.ru" tvg-logo="https://i.imgur.com/e3BFVgt.png" tvg-name="Дикая рыбалка HD" group-title="Хобби и увлечения",Дикая рыбалка [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8316/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="DikayarybalkaHD.ru" tvg-logo="https://i.imgur.com/e3BFVgt.png" tvg-name="Дикая рыбалка HD" group-title="Хобби и увлечения",Дикая рыбалка [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://130.193.73.10:8937/play/a04p
+#EXTINF:-1 tvg-id="DikayarybalkaHD.ru" tvg-logo="https://i.imgur.com/e3BFVgt.png" tvg-name="Дикая рыбалка HD" group-title="Хобби и увлечения",Дикая рыбалка [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://flussonic.salomtv.uz/DikayaRibalkaHD/video.m3u8
+#EXTINF:-1 tvg-id="Dikij.ru" tvg-logo="https://i.imgur.com/VDXDiPC.png" tvg-name="Дикий" group-title="Хобби и увлечения",Дикий [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.23.80.28:8080/Dikiy/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Dikij.ru" tvg-logo="https://i.imgur.com/VDXDiPC.png" tvg-name="Дикий" group-title="Хобби и увлечения",Дикий [720x576]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://65.21.85.175:8000/play/a00k/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="Dikij.ru" tvg-logo="https://i.imgur.com/VDXDiPC.png" tvg-name="Дикий" group-title="Хобби и увлечения",Дикий [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://130.193.73.10:8937/play/a04s
+#EXTINF:-1 tvg-id="Dikij.ru" tvg-logo="https://i.imgur.com/VDXDiPC.png" tvg-name="Дикий" group-title="Хобби и увлечения",Дикий [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://95.156.76.230:33001/udp/230.4.34.78:1234
+#EXTINF:-1 tvg-id="DomashnieZhivotnye.ru" tvg-logo="https://i.imgur.com/ISJzQGP.png" tvg-name="Домашние животные" group-title="Хобби и увлечения",Домашние животные [720x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8081/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="DomashnieZhivotnye.ru" tvg-logo="https://i.imgur.com/ISJzQGP.png" tvg-name="Домашние животные" group-title="Хобби и увлечения",Домашние животные [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://130.193.73.10:8937/play/a02d
+#EXTINF:-1 tvg-id="Eda.ru" tvg-logo="https://i.imgur.com/htmbgOX.png" tvg-name="Еда" group-title="Хобби и увлечения",Еда [720x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8140/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Eda.ru" tvg-logo="https://i.imgur.com/htmbgOX.png" tvg-name="Еда" group-title="Хобби и увлечения",Еда [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.23.80.28:8080/Eda/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Eda.ru" tvg-logo="https://i.imgur.com/htmbgOX.png" tvg-name="Еда" group-title="Хобби и увлечения",Еда [704x396]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://46.17.41.254:2020/channel/n26d9ff0a/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+#EXTINF:-1 tvg-id="Zhivi.ru" tvg-logo="https://i.imgur.com/LPqySGk.png" tvg-name="Живи!" group-title="Хобби и увлечения",Живи! [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://195.18.23.20:8000/play/10/index.m3u8
+#EXTINF:-1 tvg-id="Zhivi.ru" tvg-logo="https://i.imgur.com/LPqySGk.png" tvg-name="Живи!" group-title="Хобби и увлечения",Живи! [720x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8187/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Zhivi.ru" tvg-logo="https://i.imgur.com/LPqySGk.png" tvg-name="Живи!" group-title="Хобби и увлечения",Живи! [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://31.148.48.15/Zhivi/index.m3u8
+#EXTINF:-1 tvg-id="Zhivi.ru" tvg-logo="https://i.imgur.com/LPqySGk.png" tvg-name="Живи!" group-title="Хобби и увлечения",Живи! [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://31.148.48.15/Zhivi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru" tvg-logo="https://i.imgur.com/RoYd5pz.png" tvg-name="Загородная жизнь" group-title="Хобби и увлечения",Загородная жизнь [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://195.26.83.96:7007/play/10/index.m3u8
+#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru" tvg-logo="https://i.imgur.com/RoYd5pz.png" tvg-name="Загородная жизнь" group-title="Хобби и увлечения",Загородная жизнь [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.16.7:4022/udp/234.0.0.115:2000
+#EXTINF:-1 tvg-id="Zagorodnyy.ru" tvg-logo="https://i.imgur.com/YGqO3Us.png" tvg-name="Загородный" group-title="Хобби и увлечения",Загородный [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/DTX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Zagorodnyy.ru" tvg-logo="https://i.imgur.com/YGqO3Us.png" tvg-name="Загородный" group-title="Хобби и увлечения",Загородный [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.23.80.28:8080/Zagorodnyj/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Zagorodnyy.ru" tvg-logo="https://i.imgur.com/YGqO3Us.png" tvg-name="Загородный" group-title="Хобби и увлечения",Загородный [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/DTX/mono.m3u8
+#EXTINF:-1 tvg-id="Zagorodnyy.ru" tvg-logo="https://i.imgur.com/YGqO3Us.png" tvg-name="Загородный" group-title="Хобби и увлечения",Загородный [704x396]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://46.17.41.254:2020/channel/38a91374/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+#EXTINF:-1 tvg-id="Zagorodnyy.ru" tvg-logo="https://i.imgur.com/YGqO3Us.png" tvg-name="Загородный" group-title="Хобби и увлечения",Загородный  [854x480]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://ott-cdn.ucom.am/s31/04.m3u8
+#EXTINF:-1 tvg-id="ZagorodnyyInt.ru" tvg-logo="https://i.imgur.com/n7zOS06.png" tvg-name="Загородный Int" group-title="Хобби и увлечения",Загородный Int [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://46.17.41.254:2020/channel/4f306519/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+#EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png" tvg-name="Кухня ТВ" group-title="Хобби и увлечения",Кухня ТВ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l65/index.m3u8
+#EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png" tvg-name="Кухня ТВ" group-title="Хобби и увлечения",Кухня ТВ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/KukhnyaTv/mono.m3u8
+#EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png" tvg-name="Кухня ТВ" group-title="Хобби и увлечения",Кухня ТВ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://2.57.217.197:8080/play/a08w/index.m3u8
+#EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png" tvg-name="Кухня ТВ" group-title="Хобби и увлечения",Кухня ТВ [480x360]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/kuhnya.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png" tvg-name="Кухня ТВ" group-title="Хобби и увлечения",Кухня ТВ [480x360]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/kuhnya.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png" tvg-name="Кухня ТВ" group-title="Хобби и увлечения",Кухня ТВ [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8063/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png" tvg-name="Кухня ТВ" group-title="Хобби и увлечения",Кухня ТВ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://31.148.48.15/Kuhnya_TV/index.m3u8
+#EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png" tvg-name="Кухня ТВ" group-title="Хобби и увлечения",Кухня ТВ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l65/mpegts
+#EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png" tvg-name="Кухня ТВ" group-title="Хобби и увлечения",Кухня ТВ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://flussonic.salomtv.uz/KuxnyaTV/video.m3u8
+#EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png" tvg-name="Кухня ТВ" group-title="Хобби и увлечения",Кухня ТВ [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.88.106:4022/udp/234.0.0.241:2000
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" tvg-name="National Geographic" group-title="Познавательный",National Geographic [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream02.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" tvg-name="National Geographic" group-title="Познавательный",National Geographic [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" tvg-name="National Geographic" group-title="Познавательный",National Geographic [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8176/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" tvg-name="National Geographic" group-title="Познавательный",National Geographic [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8080/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" tvg-name="National Geographic" group-title="Познавательный",National Geographic [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" tvg-name="National Geographic" group-title="Познавательный",National Geographic [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://s1.merlive.am/NationalGeographic/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" tvg-name="National Geographic" group-title="Познавательный",National Geographic [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream02.vnet.am/NationalGeographic/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" tvg-name="National Geographic" group-title="Познавательный",National Geographic [1920x1080]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://ost.ru-tv.site/zdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mzo4ODg3LzgxNzYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjlkMTE3MjZiIiwicCI6IjlkMTE3MjZiMzgwYTRjODUiLCJjIjoiMTY2IiwidCI6ImQ1M2EyYjVlM2MzYmE2Yjc5YzczZjUzZjAyY2Q1NWYwIiwiZCI6IjI5MjQ5NiIsInIiOiIyOTgwMDUiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuODEvODE3Ni9pbmRleC5tM3U4P3Rva2VuPVt/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" tvg-name="National Geographic" group-title="Познавательный",National Geographic [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://flussonic.salomtv.uz/NationalGeographic/video.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" tvg-name="Nat Geo Wild" group-title="Познавательный",National Geographic Wild [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" tvg-name="Nat Geo Wild" group-title="Познавательный",National Geographic Wild [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream02.vnet.am/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" tvg-name="Nat Geo Wild" group-title="Познавательный",National Geographic Wild [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" tvg-name="Nat Geo Wild" group-title="Познавательный",National Geographic Wild [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8188/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" tvg-name="Nat Geo Wild" group-title="Познавательный",National Geographic Wild [720x576]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://135.181.115.81:8000/play/a00c/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" tvg-name="Nat Geo Wild" group-title="Познавательный",National Geographic Wild [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8079/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" tvg-name="Nat Geo Wild" group-title="Познавательный",National Geographic Wild [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/NatGeoWild/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" tvg-name="Nat Geo Wild" group-title="Познавательный",National Geographic Wild [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://flussonic.salomtv.uz/NatGeoWildHD/video.m3u8
+#EXTINF:-1 tvg-id="OceanTV.ru" tvg-logo="https://i.imgur.com/zswzDZS.png" tvg-name="Ocean-TV" group-title="Познавательный",Ocean-TV [720x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8069/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="OceanTV.ru" tvg-logo="https://i.imgur.com/zswzDZS.png" tvg-name="Ocean-TV" group-title="Познавательный",Ocean-TV [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://s1.merlive.am/oceantv/index.m3u8
+#EXTINF:-1 tvg-id="OceanTV.ru" tvg-logo="https://i.imgur.com/zswzDZS.png" tvg-name="Ocean-TV" group-title="Познавательный",Ocean-TV [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://46.17.41.254:2020/channel/6b6eb54c/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+#EXTINF:-1 tvg-id="RTGHD.ru" tvg-logo="https://i.imgur.com/jEkgahl.png" tvg-name="RTG HD" group-title="Познавательный",RTG HD [1280x720]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l321/mpegts
+#EXTINF:-1 tvg-id="RTGHD.ru" tvg-logo="https://i.imgur.com/jEkgahl.png" tvg-name="RTG HD" group-title="Познавательный",RTG HD [1280x720]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l321/index.m3u8
+#EXTINF:-1 tvg-id="RTGHD.ru" tvg-logo="https://i.imgur.com/jEkgahl.png" tvg-name="RTG HD" group-title="Познавательный",RTG HD [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8173/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="RTGHD.ru" tvg-logo="https://i.imgur.com/jEkgahl.png" tvg-name="RTG HD" group-title="Познавательный",RTG HD [1280x720]
+#EXTVLCOPT:http-user-agent=VLC/3.0.21 LibVLC/3.0.21
+http://tv.streams.baikal-telecom.net:8080/RTG_HD/index.m3u8
+#EXTINF:-1 tvg-id="RTGHD.ru" tvg-logo="https://i.imgur.com/jEkgahl.png" tvg-name="RTG HD" group-title="Познавательный",RTG HD [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://s1.merlive.am/rtgtv/index.m3u8
+#EXTINF:-1 tvg-id="RTGHD.ru" tvg-logo="https://i.imgur.com/jEkgahl.png" tvg-name="RTG HD" group-title="Познавательный",RTG HD [1280x720]
+#EXTVLCOPT:http-user-agent=VLC/3.0.21 LibVLC/3.0.21
+http://tv.streams.baikal-telecom.net:8080/RTG_HD/mpegts
+#EXTINF:-1 tvg-id="RTGHD.ru" tvg-logo="https://i.imgur.com/jEkgahl.png" tvg-name="RTG HD" group-title="Познавательный",RTG HD [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://130.193.73.10:8937/play/a01h
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-name="RTG TV" group-title="Познавательный",RTG TV [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://195.26.83.96:7007/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-name="RTG TV" group-title="Познавательный",RTG TV [720x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8151/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-name="RTG TV" group-title="Познавательный",RTG TV [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://31.148.48.15/RTG/index.m3u8
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-name="RTG TV" group-title="Познавательный",RTG TV [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://77.106.252.178:4022/udp/233.33.210.132:5050
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-name="RTG TV" group-title="Познавательный",RTG TV [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.124.152.238:8088/rtg
+#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-name="RTД" group-title="Познавательный",RTД rus [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-name="RTД" group-title="Познавательный",RTД rus [854x480]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://ott-cdn.ucom.am/s93/04.m3u8
+#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-name="RTД" group-title="Познавательный",RTД rus [1920x1080]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-name="RTД" group-title="Познавательный",RTД rus [1280x720]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://hls.rt.com/hls/rtdru360.m3u8
+#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-name="RTД" group-title="Познавательный",RTД rus [704x396]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://46.17.41.254:2020/channel/n26e89649/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-name="RTД" group-title="Познавательный",RTД rus [1920x1080]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://tv.streams.baikal-telecom.net:8080/RTD_HD/mpegts
+#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-name="RTД" group-title="Познавательный",RTД rus [1920x1080]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://streaming.thestream.cyou/live/554-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-name="RTД" group-title="Познавательный",RTД rus [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://streaming.televizor-24-tochka.ru/live/554.m3u8
+#EXTINF:-1 tvg-id="TERRA.ru" tvg-logo="https://i.imgur.com/ZxUjCpF.png" tvg-name="TERRA" group-title="Познавательный",TERRA [720x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8078/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="TERRA.ru" tvg-logo="https://i.imgur.com/ZxUjCpF.png" tvg-name="TERRA" group-title="Познавательный",TERRA [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.50.148.2:7707/NationalGeographic/index.m3u8
+#EXTINF:-1 tvg-id="TERRA.ru" tvg-logo="https://i.imgur.com/ZxUjCpF.png" tvg-name="TERRA" group-title="Познавательный",TERRA [720x576]
+#EXTVLCOPT:http-user-agent=VLC/3.0.21 LibVLC/3.0.21
+http://109.200.130.123:7537/play/a02i
+#EXTINF:-1 tvg-id="TERRA.ru" tvg-logo="https://i.imgur.com/ZxUjCpF.png" tvg-name="TERRA" group-title="Познавательный",TERRA [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://130.193.73.10:8937/play/a01g
+#EXTINF:-1 tvg-id="TLC.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" tvg-name="TLC" group-title="Познавательный",TLC [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/TLC/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="TLC.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" tvg-name="TLC" group-title="Познавательный",TLC [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8060/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="TLC.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" tvg-name="TLC" group-title="Познавательный",TLC [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://stream01.vnet.am/TLC/mono.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-logo="https://i.imgur.com/0GuAJ4W.png" tvg-name="Travel Channel" group-title="Познавательный",Travel Channel [1024x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8083/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-logo="https://i.imgur.com/0GuAJ4W.png" tvg-name="Travel Channel" group-title="Познавательный",Travel Channel [1920x1080]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.admuspeh.my/8315/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-name="Travel+Adventure" group-title="Познавательный",Travel+Adventure [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://31.184.197.124/TravelAdventureHD/mono.m3u8
+#EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-name="Travel+Adventure" group-title="Познавательный",Travel+Adventure [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8170/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-name="Travel+Adventure" group-title="Познавательный",Travel+Adventure [720x576]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://130.193.73.10:8937/play/a026
+#EXTINF:-1 tvg-id="Zoopark.ru" tvg-logo="https://i.imgur.com/IO5jegK.png" tvg-name="Zooпарк" group-title="Познавательный",ZooПарк [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.88.106:4022/udp/234.0.0.216:2000
+#EXTINF:-1 tvg-id="Zoopark.ru" tvg-logo="https://i.imgur.com/IO5jegK.png" tvg-name="Zooпарк" group-title="Познавательный",ZooПарк [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8655/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="Zoopark.ru" tvg-logo="https://i.imgur.com/IO5jegK.png" tvg-name="Zooпарк" group-title="Познавательный",ZooПарк [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://s1.merlive.am/Zoopark/index.m3u8
+#EXTINF:-1 tvg-id="Zoopark.ru" tvg-logo="https://i.imgur.com/IO5jegK.png" tvg-name="Zooпарк" group-title="Познавательный",ZooПарк [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.37.150.40:8092/Zoo/playlist.m3u8
+#EXTINF:-1 tvg-id="Zoopark.ru" tvg-logo="https://i.imgur.com/IO5jegK.png" tvg-name="Zooпарк" group-title="Познавательный",ZooПарк [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://77.106.252.178:4022/udp/233.33.221.27:5050
+#EXTINF:-1 tvg-id="Zoopark.ru" tvg-logo="https://i.imgur.com/IO5jegK.png" tvg-name="Zooпарк" group-title="Познавательный",ZooПарк [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://flussonic.salomtv.uz/ZooPark/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Zoopark.ru" tvg-logo="https://i.imgur.com/IO5jegK.png" tvg-name="Zooпарк" group-title="Познавательный",ZooПарк [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://flussonic.salomtv.uz/ZooPark/video.m3u8
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-name="Viju Explore" group-title="Познавательный",viju Explore [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l94/mpegts
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-name="Viju Explore" group-title="Познавательный",viju Explore [1920x1080]
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8085/video.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-name="Viju Explore" group-title="Познавательный",viju Explore [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.50.148.2:7703/ViasatExplorer/index.m3u8
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-name="Viju Explore" group-title="Познавательный",viju Explore [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.226.137.140:81/tl/l94/index.m3u8
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-name="Viju Explore" group-title="Познавательный",viju Explore [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://flussonic.salomtv.uz/Viasat_Explorer/video.m3u8
+
 
 
 
